@@ -4,7 +4,7 @@
 
 This project consists of modifying the Snake game from the Python freegames package. The main objective was to understand the original code and implement new required features related to movement, colors, and documentation.
 
-The game was tested and modified using Python, Turtle Graphics, Git, GitHub, and WSL Ubuntu.
+The game was developed and tested using Python, Turtle Graphics, Git, GitHub, and WSL Ubuntu.
 
 ---
 
