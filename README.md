@@ -35,9 +35,9 @@ The following modifications were implemented:
 - A list of five colors was created: green, blue, purple, orange, and black.
 - The snake color is randomly selected when the game starts.
 - The food color is also randomly selected when the game starts.
-- A validation was added to make sure the snake and food colors are always different.
-- The food was modified so it moves randomly one step at a time.
-- The food movement was restricted so it cannot leave the game window.
+- An additional validation was implemented to ensure that the snake color and the food color are never repeated during gameplay.
+- The food movement system was modified so the food changes position randomly one step at a time instead of teleporting across the screen.
+- Boundary restrictions were also added to prevent the food from moving outside the visible game window.
 - The code was documented using comments and function descriptions.
 
 ---
