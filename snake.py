@@ -33,7 +33,9 @@ def change(x, y):
 
 def inside(head):
     """Return True if head is inside boundaries."""
+
     return -190 < head.x < 190 and -190 < head.y < 190
+
 
 
 def move_food():
